@@ -1,6 +1,8 @@
 # Blocket_web_scraper
-Scrapes cars blocket 
+Scrapes cars from swedish market place blocket 
 
+## Obtained knowledge
+* new modules such as beutifulsoup and requests
+* Increased knowledge in visualizing data
+* webscarping 
 
-Improvments:
-get car info from main page without visiting every car page. The current runtime is big with only 19 cars.
